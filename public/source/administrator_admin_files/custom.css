@@ -1,0 +1,21 @@
+.container-title h1.page-title{
+	padding-top: 64px!important;
+}
+.hidde-group{display: none;}
+table.order-detail tr{
+	line-height: 25px;
+}
+.add_message{
+	position: absolute;
+	left: 344px;
+	float: left;
+	top: 0;
+	border: none;
+	background: #2979ff;
+	height: 40px;
+	width: 100px;
+}
+.input_box{
+	width:350px
+}
+
